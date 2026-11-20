@@ -1,0 +1,68 @@
+
+---
+title: "Mi actualidad"
+---
+
+## 👩‍💻 Investigación
+
+Actualmente soy estudiante del Doctorado en Ciencias de la Ingeniería de la Pontificia Universidad Católica de Chile, en el Departamento de Ingeniería Química y Bioprocesos, bajo la supervisión del Dr. Héctor Jorquera.
+
+Mi investigación se centra en la distribución espaciotemporal del aporte del transporte en ruta al material particulado fino (MP2.5) en Santiago de Chile.
+
+Mis principales líneas de interés son:
+
+- Calidad del aire y contaminación atmosférica.
+- Emisiones del transporte vehicular.
+- Sensores de bajo costo para el monitoreo ambiental.
+- Análisis estadístico y espaciotemporal de datos ambientales.
+- Modelación de la dispersión atmosférica.
+- Desarrollo urbano sostenible.
+
+Actualmente, trabajo en una metodología que integra sensores de bajo costo calibrados, mediciones de carbono negro de combustibles fósiles (BCff), análisis estadístico y modelación atmosférica.
+
+¡Investigación en desarrollo!
+
+## 👩‍🏫 Docencia
+
+He participado en actividades de docencia universitaria relacionadas con la estadística, la ingeniería ambiental y la supervisión de trabajos de investigación de estudiantes de Ingeniería Química.
+
+Actualmente, también participo como tutora voluntaria en el programa Todas Cuentan de la Fundación Educación 2020, contribuyendo al desarrollo de habilidades matemáticas en estudiantes de enseñanza básica.
+
+## 📝 Publicaciones científicas
+
+Mis publicaciones científicas están relacionadas con la evaluación ambiental, las emisiones de material particulado y las actividades de producción de áridos.
+
+He publicado trabajos en las siguientes revistas:
+
+- Minería y Geología (2023).
+- Infomin (2024).
+- Tecnología Química (2025).
+- Monteverdia (2025).
+
+## 🎤 Congresos y eventos científicos
+
+He participado en diferentes eventos científicos nacionales e internacionales, entre ellos:
+
+- V Taller Nacional, Villa Clara, Cuba (2023).
+- CONTAT, Instituto de Meteorología, Cuba (2025).
+- RSLA26, Chile (2026).
+
+## 🏆 Reconocimientos
+
+- Premio Provincial de Innovación Tecnológica, primer lugar, CITMA, Artemisa, Cuba (2026).
+
+## 💻 R y visualización de datos
+
+Actualmente desarrollo habilidades en programación, análisis estadístico y visualización de datos utilizando R y RStudio.
+
+Mis aplicaciones se orientan principalmente al procesamiento, análisis y visualización de datos de calidad del aire.
+
+Puedes consultar mis proyectos en [GitHub](https://github.com/moliveraf).
+
+## 🤝 Colaboración científica
+
+Estoy interesada en establecer colaboraciones en temas relacionados con la calidad del aire, contaminación atmosférica, monitoreo ambiental y sostenibilidad urbana.
+
+**Contacto:** moliveraf@estudiante.uc.cl
+
+
