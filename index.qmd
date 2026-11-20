@@ -1,0 +1,29 @@
+
+---
+title: "María Cristina Olivera Ferrer"
+image: img/me.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/moliveraf
+    - text: Email
+      href: mailto:moliveraf@estudiante.uc.cl
+---
+
+¡Hola! Soy Licenciada en Química por la Universidad de La Habana, Máster en Ingeniería Ambiental por la Universidad Tecnológica de La Habana (CUJAE) y actualmente estudiante del Doctorado en Ciencias de la Ingeniería de la [Pontificia Universidad Católica de Chile](https://www.uc.cl/), en el Departamento de Ingeniería Química y Bioprocesos.
+
+Mi investigación doctoral se desarrolla bajo la supervisión del Dr. Héctor Jorquera y se centra en la distribución espaciotemporal del aporte del transporte en ruta al material particulado fino (MP2.5) en Santiago de Chile.
+
+Mis principales intereses de investigación incluyen la calidad del aire, la contaminación atmosférica, los factores de emisión, el monitoreo ambiental mediante sensores de bajo costo, el análisis estadístico de datos ambientales y la modelación atmosférica.
+
+Cuento con experiencia en proyectos de investigación relacionados con la evaluación ambiental y las emisiones de material particulado en la industria de producción de áridos, así como en docencia universitaria y supervisión de trabajos de investigación.
+
+Actualmente, también participo como tutora voluntaria en la [Fundación Educación 2020](https://educacion2020.cl/), contribuyendo al desarrollo de habilidades matemáticas en estudiantes de enseñanza básica.
+
+Si deseas conocer más sobre mis investigaciones, publicaciones y actividades académicas actuales, puedes visitar mi perfil de [GitHub](https://github.com/moliveraf) y la sección [Mi actualidad](now.qmd).
+
+
